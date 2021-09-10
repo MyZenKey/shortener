@@ -4,6 +4,17 @@ This is a sample spring-boot project to demonstrate redis cache with spring-boot
 and angular-typescript front ends containerized 
 in Docker.
 
+## Functionality
+Takes any url and responds with a tinyurl that maps to the url that was entered.
+A URL shortener is a simple tool that takes a long URL and simplifies it.
+
+for example
+    bitly.com
+    tinyurl.com
+
+In this challenge you will be creating your own URL shortener with 2 front ends react and angualar, springboot and redis
+as a database.
+
 
 ## Requirements
 * Java 11
