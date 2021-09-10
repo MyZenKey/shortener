@@ -5,12 +5,9 @@ and angular-typescript front ends containerized
 in Docker.
 
 ## Functionality
-Takes any url and responds with a tinyurl that maps to the url that was entered.
 A URL shortener is a simple tool that takes a long URL and simplifies it.
 
-for example
-    bitly.com
-    tinyurl.com
+for example bitly.com and tinyurl.com.
 
 In this challenge you will be creating your own URL shortener with 2 front ends react and angualar, springboot and redis
 as a database.
