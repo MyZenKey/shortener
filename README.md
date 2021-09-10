@@ -16,7 +16,7 @@ as a database.
 ## Requirements
 * Java 11
 * Apache Maven 3.5.0 or higher
-* Node
+* Node v12.22.1 or higher
 * Docker
 
 
