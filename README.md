@@ -1,4 +1,4 @@
-## SHORTNER
+## SHORTENER
 
 This is a sample spring-boot project to demonstrate redis cache with spring-boot, react-typescript 
 and angular-typescript front ends containerized 
