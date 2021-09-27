@@ -9,7 +9,7 @@ A URL shortener is a simple tool that takes a long URL and simplifies it.
 
 for example bitly.com and tinyurl.com.
 
-In this challenge you will be creating your own URL shortener with 2 front ends react and angular, springboot api and a 
+In this challenge you will be creating your own URL shortener with 2 front ends react and angular, springboot api or express-js api and a 
 redis as a database.  The communications between the api's and the frontend applications must be encrypted. The messages
 must be encrypted at the sender and decrypted at the receiver.
 
