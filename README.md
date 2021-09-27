@@ -13,6 +13,10 @@ In this challenge you will be creating your own URL shortener with 2 front ends 
 redis as a database.  The communications between the api's and the frontend applications must be encrypted. The messages
 must be encrypted at the sender and decrypted at the receiver.
 
+## Submit
+In order to submit your work you need to check the challenge in your a branch you created. If you have any issues 
+please reach out to the person that sent you the challenge.
+
 
 ## Requirements
 * Java 11
