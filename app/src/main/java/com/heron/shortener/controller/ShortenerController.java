@@ -33,11 +33,13 @@ public class ShortenerController {
 
     @GetMapping(value = "getShort")
     public ResponseEntity<Response> getShotURL(String id) {
+		return null;
         //TODO: get from cache
     }
 
     @PostMapping(value = "postShort")
     public ResponseEntity<Response> generateShotURL(@RequestBody String url) {
+		return null;
         //TODO
     }
 }
